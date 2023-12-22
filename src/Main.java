@@ -2,7 +2,7 @@
 
 public class Main {
     public static void main(String[] args) {
-        Punto coordinate = new Punto(3.4, 4.6);
-        System.out.println(coordinate);
+        Punto point = new Punto(3.4, 4.6);
+        System.out.println(point);
     }
 }
